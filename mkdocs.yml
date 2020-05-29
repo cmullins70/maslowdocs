@@ -1,9 +1,9 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_name: Maslow Unofficial Docs
+site_description: 'Organizing the knowledge of the Maslow community'
+site_author: 'Chris Mullins'
 docs_dir: docs/
-repo_name: 'mhausenblas/actions-sandbox'
-repo_url: 'https://github.com/mhausenblas/actions-sandbox'
+repo_name: 'cmullins70/maslowdocs'
+repo_url: 'https://github.com/cmullins70/maslowdocs'
 nav:
     - Home: index.md
 theme:
