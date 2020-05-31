@@ -1,3 +1,3 @@
-# Example MkDocs deploy GitHub Action
+#Maslow Unoffocial Documentation
 
-This is a template that uses the  [MkDocs deploy](https://github.com/marketplace/actions/deploy-mkdocs) GitHub action.
+This [thread](https://forums.maslowcnc.com/t/documenting-maslow-what-am-i-missing/13537/9) on the Maslow froums explains the origin of this effort.
