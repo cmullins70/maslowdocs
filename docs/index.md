@@ -1,12 +1,18 @@
-## Sample
+## The Maslow CNC
 
-One more, finally. Or not? :)
+The Maslow is an open source CNC machine. It has a vertical, easel-style work area that was originally designed as 4’ x 8’.  
+
+(Picture)
+
+## Primary Maslow Resources
+- The Maslow Website
+	- The Forums
+	- The Community Garden
+
 
 Now:
 
-```
-$ some 
-```
+	$ some 
 
 Look what she said:
 
@@ -27,7 +33,7 @@ And now this:
 
 ### Another
 
-[a link](https://aws.com)
+[a link][1]
 
 More?
 
@@ -38,3 +44,5 @@ NOW!
 
 
 Not gonna work, is it?
+
+[1]:	https://aws.com
